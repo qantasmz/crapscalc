@@ -20,5 +20,12 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-		
+    
+    
+    int money = 3000;
+    bool passline = false;
+    bool passlineOdds = false;
+    
+    bool come = false;
+    bool comeOdds = false;
 };

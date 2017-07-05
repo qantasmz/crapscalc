@@ -7,7 +7,15 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+    if(!passline){
+        passline = true;
+        money = money -50;
+    }
+    int dice0 = ofRandom(6)+1;
+    int dice1 = ofRandom(6)+1;
+    
+    int roll = dice0+dice1;
+    ofLog(OF_LOG_NOTICE,ofToString(roll));
 }
 
 //--------------------------------------------------------------
