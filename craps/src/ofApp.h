@@ -27,9 +27,11 @@ class ofApp : public ofBaseApp{
     bool comeout = true;
     
     bool passline = false;
+    bool passlineBet = false;
     bool passlineOdds = false;
     
     bool come = false;
+    bool comeBet = false;
     bool comeOdds = false;
-    in num = 0;
+    int num = 0;
 };

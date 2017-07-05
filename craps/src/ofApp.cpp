@@ -17,34 +17,74 @@ void ofApp::update(){
     int roll = dice0+dice1;
     int earn =0;
     if(roll== 2){
-        earn = 0;
-        if(passline){
+        if(passline && !passlineBet){
+            earn = 0;
             passline = false;
+            num = 0;
         }
     }
     if(roll== 3){
-        earn = 0;
-        if(passline){
+        if(passline && !passlineBet){
+            earn = 0;
             passline = false;
+            num = 0;
+        }
+    }
+    
+    if(roll== 4 || roll== 5 || roll== 6 || roll== 8 || roll== 9 || roll== 10){
+        
+        if(passline && !passlineBet){
+            earn = 0;
+            passline = false;
+            passlineBet = true;
+            passlineOdds = true;
+            money = money -50*5;
+            num = roll;
+        }else if(num == roll){
+            if(passlineBet){
+                earn = earn + 50*2;
+                if(roll == 4 || roll == 10){
+                    earn = earn + 50*5*3;
+                }
+                if(roll == 5 || roll == 9){
+                    earn = earn + 50*5*2.5;
+                }
+                if(roll == 6 || roll == 8){
+                    earn = earn + 50*5*2.2;
+                }
+                passlineBet = false;
+                passlineOdds = false;
+                num = 0;
+            }
         }
     }
     
     if(roll== 7){
-        earn = 50*2;
-        if(passline){
+        if(passline && !passlineBet){
+            
+            earn = 50*2;
             passline = false;
+            num = 0;
+        }
+        
+        if(passlineBet){
+            passlineBet = false;
+            passlineOdds = false;
+            num = 0;
         }
     }
     
     if(roll== 11){
-        earn = 50*2;
-        if(passline){
+        if(passline && !passlineBet){
+            
+            earn = 50*2;
             passline = false;
+            num = 0;
         }
     }
     if(roll== 12){
         earn = 0;
-        if(passline){
+        if(passline && !passlineBet){
             passline = false;
         }
     }
