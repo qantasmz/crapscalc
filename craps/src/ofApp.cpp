@@ -46,6 +46,35 @@ void ofApp::update(){
         
         if(roll== 4 || roll== 5 || roll== 6 || roll== 8 || roll== 9 || roll== 10){
             
+            
+            
+            if(come && !comeBet){
+                earn = 0;
+                come = false;
+                comeBet = true;
+                comeOdds = true;
+                
+                money = money -bet*5;
+                comeNum = roll;
+            }else if(comeNum == roll){
+                if(comeBet){
+                    earn = earn + bet*2;
+                    if(roll == 4 || roll == 10){
+                        earn = earn + bet*5*3;
+                    }
+                    if(roll == 5 || roll == 9){
+                        earn = earn + bet*5*2.5;
+                    }
+                    if(roll == 6 || roll == 8){
+                        earn = earn + bet*5*2.2;
+                    }
+                    //ofLog(OF_LOG_NOTICE,"comehit! : "+ofToString(roll));
+                    comeBet = false;
+                    comeOdds = false;
+                    comeNum = 0;
+                }
+            }
+            
             if(passline && !passlineBet){
                 earn = 0;
                 passline = false;
@@ -70,35 +99,10 @@ void ofApp::update(){
                     if(roll == 6 || roll == 8){
                         earn = earn + bet*5*2.2;
                     }
+                    //ofLog(OF_LOG_NOTICE,"placehit! : "+ofToString(roll));
                     passlineBet = false;
                     passlineOdds = false;
                     num = 0;
-                }
-            }
-            
-            if(come && !comeBet){
-                earn = 0;
-                come = false;
-                comeBet = true;
-                comeOdds = true;
-                
-                money = money -bet*5;
-                comeNum = roll;
-            }else if(comeNum == roll){
-                if(comeBet){
-                    earn = earn + bet*2;
-                    if(roll == 4 || roll == 10){
-                        earn = earn + bet*5*3;
-                    }
-                    if(roll == 5 || roll == 9){
-                        earn = earn + bet*5*2.5;
-                    }
-                    if(roll == 6 || roll == 8){
-                        earn = earn + bet*5*2.2;
-                    }
-                    comeBet = false;
-                    comeOdds = false;
-                    comeNum = 0;
                 }
             }
         }
@@ -156,30 +160,181 @@ void ofApp::update(){
             }
         }
         money += earn;
+        /*
+        ofLog(OF_LOG_NOTICE,"num : "+ofToString(num));
+        ofLog(OF_LOG_NOTICE,"come : "+ofToString(comeNum));
         ofLog(OF_LOG_NOTICE,"roll : "+ofToString(roll));
         ofLog(OF_LOG_NOTICE,"earn : "+ofToString(earn));
         ofLog(OF_LOG_NOTICE,"money : "+ofToString(money));
+         */
         if(money > max){
             max = money;
             maxTime= cnt;
         }
+        if(money < min){
+            min = money;
+        }
         cnt += 1;
     }
-    if(money > 6000){
+    if(money > 3300){
         stop = true;
         if(!end){
+            total += 1;
             ofLog(OF_LOG_NOTICE,"maximumRoll : "+ofToString(maxTime));
             ofLog(OF_LOG_NOTICE,"maximum : "+ofToString(max));
             end = true;
+            
+            
+            text.open("log.txt",ofFile::Append);
+            text << "time : "+ofToString(cnt);
+            text << "\n";
+            text << "lastnum : "+ofToString(money);
+            text << "\n";
+            text << "win!";
+            text << "\n";
+            text << "maximumRoll : "+ofToString(maxTime);
+            text << "\n";
+            text << "maximum : "+ofToString(max);
+            text << "\n";
+            text << "minimum : "+ofToString(min);
+            text << "\n";
+            text << "=================";
+            text << "\n";
+            
+            winCnt += 1;
+            
+            if(total <100){
+                money = 3000;
+                max = 0;
+                min = 10000;
+                maxTime = 0;
+                cnt = 0;
+                
+                
+                passline = false;
+                passlineBet = false;
+                passlineOdds = false;
+                
+                come = false;
+                comeBet = false;
+                comeOdds = false;
+                num = 0;
+                comeNum = 0;
+                
+                stop = false;
+                end = false;
+            }else{
+                ofLog(OF_LOG_NOTICE,"win :" +ofToString(winCnt));
+                ofLog(OF_LOG_NOTICE,"lose :" +ofToString(loseCnt));
+                ofLog(OF_LOG_NOTICE,"END!!");
+            }
         }else{
         }
-    }
-    if(money <0){
+    }else if(money <0){
         stop = true;
         if(!end){
+            total += 1;
+            
             ofLog(OF_LOG_NOTICE,"maximumRoll : "+ofToString(maxTime));
             ofLog(OF_LOG_NOTICE,"maximum : "+ofToString(max));
             end = true;
+            
+            text.open("log.txt",ofFile::Append);
+            text << "time : "+ofToString(cnt);
+            text << "\n";
+            text << "lastnum : "+ofToString(money);
+            text << "\n";
+            text << "lose!!";
+            text << "\n";
+            text << "maximumRoll : "+ofToString(maxTime);
+            text << "\n";
+            text << "maximum : "+ofToString(max);
+            text << "\n";
+            text << "minimum : "+ofToString(min);
+            text << "\n";
+            text << "=================";
+            text << "\n";
+            
+            
+            loseCnt += 1;
+            if(total <100){
+                money = 3000;
+                max = 0;
+                min = 10000;
+                maxTime = 0;
+                cnt = 0;
+                
+                
+                passline = false;
+                passlineBet = false;
+                passlineOdds = false;
+                
+                come = false;
+                comeBet = false;
+                comeOdds = false;
+                num = 0;
+                comeNum = 0;
+                
+                stop = false;
+                end = false;
+            }else{
+                ofLog(OF_LOG_NOTICE,"win :" +ofToString(winCnt));
+                ofLog(OF_LOG_NOTICE,"lose :" +ofToString(loseCnt));
+                ofLog(OF_LOG_NOTICE,"END!!");
+            }
+        }else{
+        }
+    }else if(cnt == 100){
+        stop = true;
+        if(!end){
+            total += 1;
+            
+            ofLog(OF_LOG_NOTICE,"maximumRoll : "+ofToString(maxTime));
+            ofLog(OF_LOG_NOTICE,"maximum : "+ofToString(max));
+            end = true;
+            
+            text.open("log.txt",ofFile::Append);
+            text << "time : "+ofToString(cnt);
+            text << "\n";
+            text << "lastnum : "+ofToString(money);
+            text << "\n";
+            text << "lose";
+            text << "\n";
+            text << "maximumRoll : "+ofToString(maxTime);
+            text << "\n";
+            text << "maximum : "+ofToString(max);
+            text << "\n";
+            text << "minimum : "+ofToString(min);
+            text << "\n";
+            text << "=================";
+            text << "\n";
+            
+            loseCnt += 1;
+            if(total <100){
+                money = 3000;
+                max = 0;
+                min = 10000;
+                maxTime = 0;
+                cnt = 0;
+                
+                
+                passline = false;
+                passlineBet = false;
+                passlineOdds = false;
+                
+                come = false;
+                comeBet = false;
+                comeOdds = false;
+                num = 0;
+                comeNum = 0;
+                
+                stop = false;
+                end = false;
+            }else{
+                ofLog(OF_LOG_NOTICE,"win :" +ofToString(winCnt));
+                ofLog(OF_LOG_NOTICE,"lose :" +ofToString(loseCnt));
+                ofLog(OF_LOG_NOTICE,"END!!");
+            }
         }else{
         }
     }

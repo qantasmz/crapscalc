@@ -21,13 +21,14 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
+    int total = 0;
     
     int money = 3000;
     int max = 0;
+    int min = 10000;
     int maxTime = 0;
     int cnt = 0;
     
-    bool comeout = true;
     
     bool passline = false;
     bool passlineBet = false;
@@ -43,4 +44,8 @@ class ofApp : public ofBaseApp{
     bool end = false;
     
     int bet = 10;
+    int winCnt = 0;
+    int loseCnt = 0;
+    
+    ofFile text;
 };
