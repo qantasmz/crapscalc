@@ -54,19 +54,19 @@ void ofApp::update(){
                 comeBet = true;
                 comeOdds = true;
                 
-                money = money -bet*5;
+                money = money -bet*odds;
                 comeNum = roll;
             }else if(comeNum == roll){
                 if(comeBet){
                     earn = earn + bet*2;
                     if(roll == 4 || roll == 10){
-                        earn = earn + bet*5*3;
+                        earn = earn + bet*odds*3;
                     }
                     if(roll == 5 || roll == 9){
-                        earn = earn + bet*5*2.5;
+                        earn = earn + bet*odds*2.5;
                     }
                     if(roll == 6 || roll == 8){
-                        earn = earn + bet*5*2.2;
+                        earn = earn + bet*odds*2.2;
                     }
                     //ofLog(OF_LOG_NOTICE,"comehit! : "+ofToString(roll));
                     comeBet = false;
@@ -85,19 +85,19 @@ void ofApp::update(){
                 
                 money = money -bet;
                 
-                money = money -bet*5;
+                money = money -bet*odds;
                 num = roll;
             }else if(num == roll){
                 if(passlineBet){
                     earn = earn + bet*2;
                     if(roll == 4 || roll == 10){
-                        earn = earn + bet*5*3;
+                        earn = earn + bet*odds*3;
                     }
                     if(roll == 5 || roll == 9){
-                        earn = earn + bet*5*2.5;
+                        earn = earn + bet*odds*2.5;
                     }
                     if(roll == 6 || roll == 8){
-                        earn = earn + bet*5*2.2;
+                        earn = earn + bet*odds*2.2;
                     }
                     //ofLog(OF_LOG_NOTICE,"placehit! : "+ofToString(roll));
                     passlineBet = false;
@@ -176,7 +176,7 @@ void ofApp::update(){
         }
         cnt += 1;
     }
-    if(money > 3300){
+    if(money > 3500){
         stop = true;
         if(!end){
             total += 1;
@@ -244,7 +244,7 @@ void ofApp::update(){
             text << "\n";
             text << "lastnum : "+ofToString(money);
             text << "\n";
-            text << "lose!!";
+            text << "lose!!!!!";
             text << "\n";
             text << "maximumRoll : "+ofToString(maxTime);
             text << "\n";

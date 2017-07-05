@@ -23,7 +23,7 @@ class ofApp : public ofBaseApp{
     
     int total = 0;
     
-    int money = 3000;
+    int money = 1500;
     int max = 0;
     int min = 10000;
     int maxTime = 0;
@@ -44,6 +44,7 @@ class ofApp : public ofBaseApp{
     bool end = false;
     
     int bet = 10;
+    int odds = 10;
     int winCnt = 0;
     int loseCnt = 0;
     

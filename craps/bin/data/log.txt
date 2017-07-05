@@ -691,3 +691,2082 @@ maximumRoll : 19
 maximum : 3315
 minimum : 2930
 =================
+time : 47
+lastnum : 3250
+win!
+maximumRoll : 46
+maximum : 3250
+minimum : 2590
+=================
+time : 100
+lastnum : 3090
+lose
+maximumRoll : 95
+maximum : 3090
+minimum : 2480
+=================
+time : 9
+lastnum : 3185
+win!
+maximumRoll : 8
+maximum : 3185
+minimum : 2870
+=================
+time : 19
+lastnum : 3155
+win!
+maximumRoll : 18
+maximum : 3155
+minimum : 2880
+=================
+time : 84
+lastnum : 3285
+win!
+maximumRoll : 83
+maximum : 3285
+minimum : 2730
+=================
+time : 100
+lastnum : 2460
+lose
+maximumRoll : 10
+maximum : 3100
+minimum : 2290
+=================
+time : 100
+lastnum : 2670
+lose
+maximumRoll : 0
+maximum : 2930
+minimum : 2450
+=================
+time : 46
+lastnum : 3230
+win!
+maximumRoll : 45
+maximum : 3230
+minimum : 2725
+=================
+time : 100
+lastnum : 2240
+lose
+maximumRoll : 1
+maximum : 2950
+minimum : 2000
+=================
+time : 73
+lastnum : 3185
+win!
+maximumRoll : 72
+maximum : 3185
+minimum : 2695
+=================
+time : 100
+lastnum : 1910
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 1910
+=================
+time : 15
+lastnum : 3195
+win!
+maximumRoll : 14
+maximum : 3195
+minimum : 2920
+=================
+time : 100
+lastnum : 2315
+lose
+maximumRoll : 57
+maximum : 3050
+minimum : 2315
+=================
+time : 31
+lastnum : 3185
+win!
+maximumRoll : 30
+maximum : 3185
+minimum : 2820
+=================
+time : 100
+lastnum : 2875
+lose
+maximumRoll : 84
+maximum : 3110
+minimum : 2785
+=================
+time : 100
+lastnum : 2025
+lose
+maximumRoll : 0
+maximum : 2930
+minimum : 1940
+=================
+time : 100
+lastnum : 2200
+lose
+maximumRoll : 6
+maximum : 3075
+minimum : 1850
+=================
+time : 100
+lastnum : 2295
+lose
+maximumRoll : 0
+maximum : 2930
+minimum : 2270
+=================
+time : 100
+lastnum : 2610
+lose
+maximumRoll : 0
+maximum : 2930
+minimum : 2315
+=================
+time : 28
+lastnum : 3195
+win!
+maximumRoll : 27
+maximum : 3195
+minimum : 2880
+=================
+time : 38
+lastnum : 3260
+win!
+maximumRoll : 37
+maximum : 3260
+minimum : 2750
+=================
+time : 100
+lastnum : 2545
+lose
+maximumRoll : 38
+maximum : 3135
+minimum : 2505
+=================
+time : 46
+lastnum : 3210
+win!
+maximumRoll : 45
+maximum : 3210
+minimum : 2690
+=================
+time : 13
+lastnum : 3285
+win!
+maximumRoll : 12
+maximum : 3285
+minimum : 2940
+=================
+time : 36
+lastnum : 3220
+win!
+maximumRoll : 35
+maximum : 3220
+minimum : 2870
+=================
+time : 27
+lastnum : 3195
+win!
+maximumRoll : 26
+maximum : 3195
+minimum : 2895
+=================
+time : 100
+lastnum : 2600
+lose
+maximumRoll : 8
+maximum : 2970
+minimum : 2470
+=================
+time : 100
+lastnum : 2815
+lose
+maximumRoll : 40
+maximum : 3065
+minimum : 2620
+=================
+time : 11
+lastnum : 3160
+win!
+maximumRoll : 10
+maximum : 3160
+minimum : 2870
+=================
+time : 100
+lastnum : 2965
+lose
+maximumRoll : 7
+maximum : 3035
+minimum : 2330
+=================
+time : 33
+lastnum : 3250
+win!
+maximumRoll : 32
+maximum : 3250
+minimum : 2770
+=================
+time : 5
+lastnum : 3155
+win!
+maximumRoll : 4
+maximum : 3155
+minimum : 2880
+=================
+time : 100
+lastnum : 2725
+lose
+maximumRoll : 80
+maximum : 3135
+minimum : 2710
+=================
+time : 100
+lastnum : 2330
+lose
+maximumRoll : 13
+maximum : 2970
+minimum : 2295
+=================
+time : 100
+lastnum : 2745
+lose
+maximumRoll : 44
+maximum : 3055
+minimum : 2575
+=================
+time : 100
+lastnum : 2275
+lose
+maximumRoll : 1
+maximum : 2950
+minimum : 1915
+=================
+time : 63
+lastnum : 3230
+win!
+maximumRoll : 62
+maximum : 3230
+minimum : 2520
+=================
+time : 7
+lastnum : 3175
+win!
+maximumRoll : 6
+maximum : 3175
+minimum : 2880
+=================
+time : 100
+lastnum : 2650
+lose
+maximumRoll : 24
+maximum : 3045
+minimum : 2330
+=================
+time : 100
+lastnum : 2905
+lose
+maximumRoll : 67
+maximum : 3100
+minimum : 2420
+=================
+time : 28
+lastnum : 3175
+win!
+maximumRoll : 27
+maximum : 3175
+minimum : 2870
+=================
+time : 100
+lastnum : 2655
+lose
+maximumRoll : 4
+maximum : 3020
+minimum : 2330
+=================
+time : 7
+lastnum : 3165
+win!
+maximumRoll : 6
+maximum : 3165
+minimum : 2930
+=================
+time : 100
+lastnum : 2570
+lose
+maximumRoll : 3
+maximum : 3025
+minimum : 2390
+=================
+time : 72
+lastnum : 3185
+win!
+maximumRoll : 71
+maximum : 3185
+minimum : 2555
+=================
+time : 73
+lastnum : 3185
+win!
+maximumRoll : 72
+maximum : 3185
+minimum : 2590
+=================
+time : 100
+lastnum : 2725
+lose
+maximumRoll : 0
+maximum : 2930
+minimum : 2220
+=================
+time : 100
+lastnum : 2505
+lose
+maximumRoll : 10
+maximum : 3070
+minimum : 2505
+=================
+time : 52
+lastnum : 3240
+win!
+maximumRoll : 51
+maximum : 3240
+minimum : 2630
+=================
+time : 28
+lastnum : 3210
+win!
+maximumRoll : 27
+maximum : 3210
+minimum : 2730
+=================
+time : 100
+lastnum : 2800
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 2370
+=================
+time : 100
+lastnum : 3005
+lose
+maximumRoll : 90
+maximum : 3085
+minimum : 2585
+=================
+time : 100
+lastnum : 2875
+lose
+maximumRoll : 91
+maximum : 3055
+minimum : 2520
+=================
+time : 39
+lastnum : 3250
+win!
+maximumRoll : 38
+maximum : 3250
+minimum : 2650
+=================
+time : 37
+lastnum : 3155
+win!
+maximumRoll : 36
+maximum : 3155
+minimum : 2855
+=================
+time : 100
+lastnum : 2435
+lose
+maximumRoll : 1
+maximum : 2950
+minimum : 2090
+=================
+time : 78
+lastnum : 3155
+win!
+maximumRoll : 77
+maximum : 3155
+minimum : 2530
+=================
+time : 48
+lastnum : 3165
+win!
+maximumRoll : 47
+maximum : 3165
+minimum : 2795
+=================
+time : 100
+lastnum : 2495
+lose
+maximumRoll : 59
+maximum : 3085
+minimum : 2495
+=================
+time : 100
+lastnum : 2005
+lose
+maximumRoll : 32
+maximum : 3135
+minimum : 2005
+=================
+time : 6
+lastnum : 3155
+win!
+maximumRoll : 5
+maximum : 3155
+minimum : 2880
+=================
+time : 100
+lastnum : 2435
+lose
+maximumRoll : 1
+maximum : 3000
+minimum : 2415
+=================
+time : 100
+lastnum : 2580
+lose
+maximumRoll : 6
+maximum : 2940
+minimum : 2070
+=================
+time : 15
+lastnum : 3160
+win!
+maximumRoll : 14
+maximum : 3160
+minimum : 2880
+=================
+time : 21
+lastnum : 3190
+win!
+maximumRoll : 20
+maximum : 3190
+minimum : 2880
+=================
+time : 32
+lastnum : 3280
+win!
+maximumRoll : 31
+maximum : 3280
+minimum : 2850
+=================
+time : 100
+lastnum : 2370
+lose
+maximumRoll : 1
+maximum : 2950
+minimum : 2370
+=================
+time : 21
+lastnum : 3175
+win!
+maximumRoll : 20
+maximum : 3175
+minimum : 2840
+=================
+time : 68
+lastnum : 3155
+win!
+maximumRoll : 67
+maximum : 3155
+minimum : 2730
+=================
+time : 100
+lastnum : 2295
+lose
+maximumRoll : 8
+maximum : 3085
+minimum : 2255
+=================
+time : 18
+lastnum : 3170
+win!
+maximumRoll : 17
+maximum : 3170
+minimum : 2905
+=================
+time : 100
+lastnum : 2635
+lose
+maximumRoll : 3
+maximum : 3020
+minimum : 2515
+=================
+time : 100
+lastnum : 2080
+lose
+maximumRoll : 4
+maximum : 3000
+minimum : 1935
+=================
+time : 70
+lastnum : 3175
+win!
+maximumRoll : 69
+maximum : 3175
+minimum : 2690
+=================
+time : 41
+lastnum : 3170
+win!
+maximumRoll : 40
+maximum : 3170
+minimum : 2780
+=================
+time : 18
+lastnum : 3185
+win!
+maximumRoll : 17
+maximum : 3185
+minimum : 2880
+=================
+time : 48
+lastnum : 3185
+win!
+maximumRoll : 47
+maximum : 3185
+minimum : 2700
+=================
+time : 100
+lastnum : 2755
+lose
+maximumRoll : 81
+maximum : 3115
+minimum : 2695
+=================
+time : 45
+lastnum : 3260
+win!
+maximumRoll : 44
+maximum : 3260
+minimum : 2900
+=================
+time : 100
+lastnum : 1750
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 1750
+=================
+time : 100
+lastnum : 2205
+lose
+maximumRoll : 8
+maximum : 3010
+minimum : 1950
+=================
+time : 27
+lastnum : 3235
+win!
+maximumRoll : 26
+maximum : 3235
+minimum : 2830
+=================
+time : 16
+lastnum : 3195
+win!
+maximumRoll : 15
+maximum : 3195
+minimum : 2880
+=================
+time : 100
+lastnum : 2625
+lose
+maximumRoll : 84
+maximum : 3035
+minimum : 2620
+=================
+time : 100
+lastnum : 2485
+lose
+maximumRoll : 0
+maximum : 2930
+minimum : 2360
+=================
+time : 11
+lastnum : 3270
+win!
+maximumRoll : 10
+maximum : 3270
+minimum : 2930
+=================
+time : 100
+lastnum : 2515
+lose
+maximumRoll : 5
+maximum : 3030
+minimum : 2125
+=================
+time : 5
+lastnum : 3190
+win!
+maximumRoll : 4
+maximum : 3190
+minimum : 2890
+=================
+time : 100
+lastnum : 2420
+lose
+maximumRoll : 10
+maximum : 3035
+minimum : 2015
+=================
+time : 100
+lastnum : 2480
+lose
+maximumRoll : 4
+maximum : 2960
+minimum : 2270
+=================
+time : 7
+lastnum : 3155
+win!
+maximumRoll : 6
+maximum : 3155
+minimum : 2880
+=================
+time : 19
+lastnum : 3170
+win!
+maximumRoll : 18
+maximum : 3170
+minimum : 2820
+=================
+time : 100
+lastnum : 2060
+lose
+maximumRoll : 4
+maximum : 3010
+minimum : 1795
+=================
+time : 25
+lastnum : 3160
+win!
+maximumRoll : 24
+maximum : 3160
+minimum : 2670
+=================
+time : 51
+lastnum : 3175
+win!
+maximumRoll : 50
+maximum : 3175
+minimum : 2540
+=================
+time : 55
+lastnum : 3210
+win!
+maximumRoll : 54
+maximum : 3210
+minimum : 2840
+=================
+time : 77
+lastnum : 3160
+win!
+maximumRoll : 76
+maximum : 3160
+minimum : 2705
+=================
+time : 100
+lastnum : 2600
+lose
+maximumRoll : 5
+maximum : 3000
+minimum : 2320
+=================
+time : 39
+lastnum : 3160
+win!
+maximumRoll : 38
+maximum : 3160
+minimum : 2770
+=================
+time : 6
+lastnum : 3180
+win!
+maximumRoll : 5
+maximum : 3180
+minimum : 2880
+=================
+time : 6
+lastnum : 3180
+win!
+maximumRoll : 5
+maximum : 3180
+minimum : 2890
+=================
+time : 100
+lastnum : 1640
+lose
+maximumRoll : 9
+maximum : 3040
+minimum : 930
+=================
+time : 100
+lastnum : 2360
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 1960
+=================
+time : 100
+lastnum : 2920
+lose
+maximumRoll : 88
+maximum : 3130
+minimum : 1920
+=================
+time : 8
+lastnum : 3220
+win!
+maximumRoll : 7
+maximum : 3220
+minimum : 2780
+=================
+time : 14
+lastnum : 3190
+win!
+maximumRoll : 13
+maximum : 3190
+minimum : 2880
+=================
+time : 48
+lastnum : 3250
+win!
+maximumRoll : 47
+maximum : 3250
+minimum : 2560
+=================
+time : 100
+lastnum : 2840
+lose
+maximumRoll : 82
+maximum : 3080
+minimum : 2120
+=================
+time : 16
+lastnum : 3170
+win!
+maximumRoll : 15
+maximum : 3170
+minimum : 2690
+=================
+time : 66
+lastnum : 3180
+win!
+maximumRoll : 65
+maximum : 3180
+minimum : 2230
+=================
+time : 14
+lastnum : 3240
+win!
+maximumRoll : 13
+maximum : 3240
+minimum : 2880
+=================
+time : 100
+lastnum : 2280
+lose
+maximumRoll : 35
+maximum : 2900
+minimum : 1960
+=================
+time : 62
+lastnum : 3170
+win!
+maximumRoll : 61
+maximum : 3170
+minimum : 1860
+=================
+time : 33
+lastnum : 3210
+win!
+maximumRoll : 32
+maximum : 3210
+minimum : 2650
+=================
+time : 13
+lastnum : 3340
+win!
+maximumRoll : 12
+maximum : 3340
+minimum : 2700
+=================
+time : 100
+lastnum : 1850
+lose
+maximumRoll : 7
+maximum : 3140
+minimum : 1830
+=================
+time : 5
+lastnum : 3160
+win!
+maximumRoll : 4
+maximum : 3160
+minimum : 2880
+=================
+time : 5
+lastnum : 3340
+win!
+maximumRoll : 4
+maximum : 3340
+minimum : 2780
+=================
+time : 14
+lastnum : 3310
+win!
+maximumRoll : 13
+maximum : 3310
+minimum : 2880
+=================
+time : 100
+lastnum : 2980
+lose
+maximumRoll : 4
+maximum : 3100
+minimum : 2360
+=================
+time : 86
+lastnum : 3280
+win!
+maximumRoll : 85
+maximum : 3280
+minimum : 2390
+=================
+time : 100
+lastnum : 1960
+lose
+maximumRoll : 11
+maximum : 3070
+minimum : 1960
+=================
+time : 39
+lastnum : 3230
+win!
+maximumRoll : 38
+maximum : 3230
+minimum : 2010
+=================
+time : 14
+lastnum : 3180
+win!
+maximumRoll : 13
+maximum : 3180
+minimum : 2880
+=================
+time : 100
+lastnum : 3050
+lose
+maximumRoll : 99
+maximum : 3050
+minimum : 2240
+=================
+time : 100
+lastnum : 2970
+lose
+maximumRoll : 73
+maximum : 3010
+minimum : 2220
+=================
+time : 100
+lastnum : 2160
+lose
+maximumRoll : 30
+maximum : 3080
+minimum : 1490
+=================
+time : 100
+lastnum : 2330
+lose
+maximumRoll : 40
+maximum : 3010
+minimum : 1990
+=================
+time : 17
+lastnum : 3310
+win!
+maximumRoll : 16
+maximum : 3310
+minimum : 2840
+=================
+time : 6
+lastnum : 3290
+win!
+maximumRoll : 5
+maximum : 3290
+minimum : 2780
+=================
+time : 8
+lastnum : 3300
+win!
+maximumRoll : 7
+maximum : 3300
+minimum : 2790
+=================
+time : 70
+lastnum : 3180
+win!
+maximumRoll : 69
+maximum : 3180
+minimum : 2090
+=================
+time : 22
+lastnum : 3200
+win!
+maximumRoll : 21
+maximum : 3200
+minimum : 2680
+=================
+time : 100
+lastnum : 2280
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1640
+=================
+time : 70
+lastnum : 3190
+win!
+maximumRoll : 69
+maximum : 3190
+minimum : 2510
+=================
+time : 100
+lastnum : 1760
+lose
+maximumRoll : 31
+maximum : 3090
+minimum : 1610
+=================
+time : 100
+lastnum : 2100
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 2010
+=================
+time : 100
+lastnum : 2460
+lose
+maximumRoll : 65
+maximum : 2980
+minimum : 1910
+=================
+time : 37
+lastnum : 3180
+win!
+maximumRoll : 36
+maximum : 3180
+minimum : 2420
+=================
+time : 28
+lastnum : 3290
+win!
+maximumRoll : 27
+maximum : 3290
+minimum : 2790
+=================
+time : 40
+lastnum : 3280
+win!
+maximumRoll : 39
+maximum : 3280
+minimum : 2640
+=================
+time : 58
+lastnum : 3200
+win!
+maximumRoll : 57
+maximum : 3200
+minimum : 2410
+=================
+time : 100
+lastnum : 1300
+lose
+maximumRoll : 7
+maximum : 3020
+minimum : 1300
+=================
+time : 100
+lastnum : 2350
+lose
+maximumRoll : 43
+maximum : 3060
+minimum : 2090
+=================
+time : 15
+lastnum : 3370
+win!
+maximumRoll : 14
+maximum : 3370
+minimum : 2780
+=================
+time : 100
+lastnum : 2660
+lose
+maximumRoll : 19
+maximum : 3090
+minimum : 1740
+=================
+time : 100
+lastnum : 1490
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1490
+=================
+time : 68
+lastnum : 3170
+win!
+maximumRoll : 67
+maximum : 3170
+minimum : 2360
+=================
+time : 16
+lastnum : 3280
+win!
+maximumRoll : 15
+maximum : 3280
+minimum : 2780
+=================
+time : 100
+lastnum : 2680
+lose
+maximumRoll : 78
+maximum : 2950
+minimum : 2160
+=================
+time : 60
+lastnum : 3260
+win!
+maximumRoll : 59
+maximum : 3260
+minimum : 2710
+=================
+time : 100
+lastnum : 1630
+lose
+maximumRoll : 24
+maximum : 2950
+minimum : 1360
+=================
+time : 10
+lastnum : 3180
+win!
+maximumRoll : 9
+maximum : 3180
+minimum : 2700
+=================
+time : 60
+lastnum : 3170
+win!
+maximumRoll : 59
+maximum : 3170
+minimum : 2660
+=================
+time : 41
+lastnum : 3160
+win!
+maximumRoll : 40
+maximum : 3160
+minimum : 2430
+=================
+time : 24
+lastnum : 3160
+win!
+maximumRoll : 23
+maximum : 3160
+minimum : 2580
+=================
+time : 9
+lastnum : 3340
+win!
+maximumRoll : 8
+maximum : 3340
+minimum : 2880
+=================
+time : 7
+lastnum : 3300
+win!
+maximumRoll : 6
+maximum : 3300
+minimum : 2880
+=================
+time : 100
+lastnum : 2410
+lose
+maximumRoll : 44
+maximum : 2920
+minimum : 2300
+=================
+time : 100
+lastnum : 1330
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1330
+=================
+time : 32
+lastnum : 3390
+win!
+maximumRoll : 31
+maximum : 3390
+minimum : 2620
+=================
+time : 24
+lastnum : 3260
+win!
+maximumRoll : 23
+maximum : 3260
+minimum : 2470
+=================
+time : 35
+lastnum : 3330
+win!
+maximumRoll : 34
+maximum : 3330
+minimum : 2680
+=================
+time : 100
+lastnum : 1210
+lose
+maximumRoll : 0
+maximum : 2990
+minimum : 1210
+=================
+time : 22
+lastnum : 3400
+win!
+maximumRoll : 21
+maximum : 3400
+minimum : 2830
+=================
+time : 100
+lastnum : 1310
+lose
+maximumRoll : 17
+maximum : 3130
+minimum : 1290
+=================
+time : 47
+lastnum : 3230
+win!
+maximumRoll : 46
+maximum : 3230
+minimum : 2360
+=================
+time : 10
+lastnum : 3240
+win!
+maximumRoll : 9
+maximum : 3240
+minimum : 2770
+=================
+time : 29
+lastnum : 3170
+win!
+maximumRoll : 28
+maximum : 3170
+minimum : 2690
+=================
+time : 44
+lastnum : 3170
+win!
+maximumRoll : 43
+maximum : 3170
+minimum : 2550
+=================
+time : 80
+lastnum : 3310
+win!
+maximumRoll : 79
+maximum : 3310
+minimum : 2490
+=================
+time : 100
+lastnum : 2450
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 2120
+=================
+time : 63
+lastnum : 3360
+win!
+maximumRoll : 62
+maximum : 3360
+minimum : 2720
+=================
+time : 100
+lastnum : 1450
+lose
+maximumRoll : 1
+maximum : 2900
+minimum : 1330
+=================
+time : 100
+lastnum : 1940
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1450
+=================
+time : 42
+lastnum : 3180
+win!
+maximumRoll : 41
+maximum : 3180
+minimum : 2230
+=================
+time : 53
+lastnum : 3350
+win!
+maximumRoll : 52
+maximum : 3350
+minimum : 1870
+=================
+time : 100
+lastnum : 2130
+lose
+maximumRoll : 2
+maximum : 2910
+minimum : 2080
+=================
+time : 100
+lastnum : 1680
+lose
+maximumRoll : 2
+maximum : 3030
+minimum : 1680
+=================
+time : 29
+lastnum : 3290
+win!
+maximumRoll : 28
+maximum : 3290
+minimum : 2780
+=================
+time : 44
+lastnum : 3280
+win!
+maximumRoll : 43
+maximum : 3280
+minimum : 2740
+=================
+time : 100
+lastnum : 2580
+lose
+maximumRoll : 6
+maximum : 2920
+minimum : 1420
+=================
+time : 16
+lastnum : 3230
+win!
+maximumRoll : 15
+maximum : 3230
+minimum : 2770
+=================
+time : 100
+lastnum : 2210
+lose
+maximumRoll : 4
+maximum : 3110
+minimum : 1400
+=================
+time : 100
+lastnum : 2170
+lose
+maximumRoll : 30
+maximum : 3000
+minimum : 1910
+=================
+time : 100
+lastnum : 2290
+lose
+maximumRoll : 1
+maximum : 3020
+minimum : 1920
+=================
+time : 100
+lastnum : 2580
+lose
+maximumRoll : 4
+maximum : 3010
+minimum : 2300
+=================
+time : 36
+lastnum : 3200
+win!
+maximumRoll : 35
+maximum : 3200
+minimum : 2660
+=================
+time : 53
+lastnum : 3240
+win!
+maximumRoll : 52
+maximum : 3240
+minimum : 2550
+=================
+time : 100
+lastnum : 1040
+lose
+maximumRoll : 1
+maximum : 2900
+minimum : 1040
+=================
+time : 20
+lastnum : 3170
+win!
+maximumRoll : 19
+maximum : 3170
+minimum : 2690
+=================
+time : 100
+lastnum : 2000
+lose
+maximumRoll : 6
+maximum : 2900
+minimum : 1460
+=================
+time : 100
+lastnum : 1600
+lose
+maximumRoll : 19
+maximum : 3120
+minimum : 1600
+=================
+time : 23
+lastnum : 3200
+win!
+maximumRoll : 22
+maximum : 3200
+minimum : 2640
+=================
+time : 100
+lastnum : 1870
+lose
+maximumRoll : 1
+maximum : 3020
+minimum : 1870
+=================
+time : 74
+lastnum : 3290
+win!
+maximumRoll : 73
+maximum : 3290
+minimum : 2250
+=================
+time : 100
+lastnum : 1680
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 1680
+=================
+time : 46
+lastnum : 3200
+win!
+maximumRoll : 45
+maximum : 3200
+minimum : 2370
+=================
+time : 100
+lastnum : 760
+lose
+maximumRoll : 18
+maximum : 1860
+minimum : 260
+=================
+time : 100
+lastnum : 2290
+lose
+maximumRoll : 31
+maximum : 3380
+minimum : 2290
+=================
+time : 100
+lastnum : 2280
+lose
+maximumRoll : 13
+maximum : 3320
+minimum : 2280
+=================
+time : 100
+lastnum : 1160
+lose
+maximumRoll : 1
+maximum : 2900
+minimum : 1150
+=================
+time : 100
+lastnum : 3260
+lose
+maximumRoll : 79
+maximum : 3400
+minimum : 2250
+=================
+time : 100
+lastnum : 1830
+lose
+maximumRoll : 30
+maximum : 3480
+minimum : 1830
+=================
+time : 100
+lastnum : 1830
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1550
+=================
+time : 100
+lastnum : 2640
+lose
+maximumRoll : 84
+maximum : 3280
+minimum : 2250
+=================
+time : 100
+lastnum : 2750
+lose
+maximumRoll : 49
+maximum : 3500
+minimum : 2430
+=================
+time : 37
+lastnum : 3610
+win!
+maximumRoll : 36
+maximum : 3610
+minimum : 2690
+=================
+time : 100
+lastnum : 2330
+lose
+maximumRoll : 5
+maximum : 3100
+minimum : 2330
+=================
+time : 100
+lastnum : 2550
+lose
+maximumRoll : 6
+maximum : 3230
+minimum : 2280
+=================
+time : 100
+lastnum : 3160
+lose
+maximumRoll : 86
+maximum : 3500
+minimum : 2380
+=================
+time : 35
+lastnum : 3870
+win!
+maximumRoll : 34
+maximum : 3870
+minimum : 2650
+=================
+time : 100
+lastnum : 1230
+lose
+maximumRoll : 28
+maximum : 3170
+minimum : 1210
+=================
+time : 58
+lastnum : 3540
+win!
+maximumRoll : 57
+maximum : 3540
+minimum : 2650
+=================
+time : 100
+lastnum : 2310
+lose
+maximumRoll : 8
+maximum : 3030
+minimum : 1820
+=================
+time : 100
+lastnum : 3000
+lose
+maximumRoll : 70
+maximum : 3060
+minimum : 2250
+=================
+time : 100
+lastnum : 1040
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 1030
+=================
+time : 100
+lastnum : 2700
+lose
+maximumRoll : 53
+maximum : 3190
+minimum : 2440
+=================
+time : 100
+lastnum : 2340
+lose
+maximumRoll : 66
+maximum : 3050
+minimum : 2200
+=================
+time : 58
+lastnum : 3680
+win!
+maximumRoll : 57
+maximum : 3680
+minimum : 2660
+=================
+time : 100
+lastnum : 1400
+lose
+maximumRoll : 11
+maximum : 3090
+minimum : 1340
+=================
+time : 38
+lastnum : 3520
+win!
+maximumRoll : 37
+maximum : 3520
+minimum : 2570
+=================
+time : 100
+lastnum : 1650
+lose
+maximumRoll : 7
+maximum : 3340
+minimum : 1650
+=================
+time : 100
+lastnum : 2020
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1490
+=================
+time : 100
+lastnum : 2970
+lose
+maximumRoll : 7
+maximum : 3400
+minimum : 2420
+=================
+time : 100
+lastnum : 2250
+lose
+maximumRoll : 10
+maximum : 3060
+minimum : 2160
+=================
+time : 35
+lastnum : 3680
+win!
+maximumRoll : 34
+maximum : 3680
+minimum : 2780
+=================
+time : 100
+lastnum : 220
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 220
+=================
+time : 100
+lastnum : 2820
+lose
+maximumRoll : 20
+maximum : 3300
+minimum : 2310
+=================
+time : 100
+lastnum : 2750
+lose
+maximumRoll : 2
+maximum : 3020
+minimum : 2170
+=================
+time : 100
+lastnum : 2310
+lose
+maximumRoll : 4
+maximum : 3120
+minimum : 2060
+=================
+time : 100
+lastnum : 2020
+lose
+maximumRoll : 12
+maximum : 3290
+minimum : 1740
+=================
+time : 45
+lastnum : 3530
+win!
+maximumRoll : 44
+maximum : 3530
+minimum : 2870
+=================
+time : 100
+lastnum : 2250
+lose
+maximumRoll : 12
+maximum : 3370
+minimum : 1980
+=================
+time : 100
+lastnum : 2460
+lose
+maximumRoll : 2
+maximum : 3020
+minimum : 1950
+=================
+time : 74
+lastnum : 3510
+win!
+maximumRoll : 73
+maximum : 3510
+minimum : 2330
+=================
+time : 100
+lastnum : 2100
+lose
+maximumRoll : 16
+maximum : 3260
+minimum : 1840
+=================
+time : 100
+lastnum : 2020
+lose
+maximumRoll : 0
+maximum : 2990
+minimum : 2010
+=================
+time : 40
+lastnum : 3540
+win!
+maximumRoll : 39
+maximum : 3540
+minimum : 2670
+=================
+time : 100
+lastnum : 2360
+lose
+maximumRoll : 47
+maximum : 3020
+minimum : 2170
+=================
+time : 82
+lastnum : 3590
+win!
+maximumRoll : 81
+maximum : 3590
+minimum : 2090
+=================
+time : 15
+lastnum : 3510
+win!
+maximumRoll : 14
+maximum : 3510
+minimum : 2880
+=================
+time : 76
+lastnum : 3700
+win!
+maximumRoll : 75
+maximum : 3700
+minimum : 2040
+=================
+time : 95
+lastnum : 3590
+win!
+maximumRoll : 94
+maximum : 3590
+minimum : 2570
+=================
+time : 100
+lastnum : 1630
+lose
+maximumRoll : 10
+maximum : 3250
+minimum : 1630
+=================
+time : 100
+lastnum : 2790
+lose
+maximumRoll : 42
+maximum : 3450
+minimum : 2470
+=================
+time : 100
+lastnum : 2340
+lose
+maximumRoll : 24
+maximum : 2960
+minimum : 2040
+=================
+time : 28
+lastnum : 3610
+win!
+maximumRoll : 27
+maximum : 3610
+minimum : 2580
+=================
+time : 100
+lastnum : 1670
+lose
+maximumRoll : 20
+maximum : 3190
+minimum : 1440
+=================
+time : 22
+lastnum : 3630
+win!
+maximumRoll : 21
+maximum : 3630
+minimum : 2780
+=================
+time : 47
+lastnum : 3740
+win!
+maximumRoll : 46
+maximum : 3740
+minimum : 2340
+=================
+time : 92
+lastnum : 3680
+win!
+maximumRoll : 91
+maximum : 3680
+minimum : 2620
+=================
+time : 65
+lastnum : 3920
+win!
+maximumRoll : 64
+maximum : 3920
+minimum : 2680
+=================
+time : 100
+lastnum : 2950
+lose
+maximumRoll : 96
+maximum : 3170
+minimum : 1750
+=================
+time : 100
+lastnum : 1950
+lose
+maximumRoll : 6
+maximum : 2980
+minimum : 1590
+=================
+time : 100
+lastnum : 2520
+lose
+maximumRoll : 31
+maximum : 3090
+minimum : 2370
+=================
+time : 100
+lastnum : 2210
+lose
+maximumRoll : 8
+maximum : 3140
+minimum : 2100
+=================
+time : 100
+lastnum : 2680
+lose
+maximumRoll : 6
+maximum : 3250
+minimum : 2040
+=================
+time : 100
+lastnum : 1890
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1640
+=================
+time : 100
+lastnum : 1680
+lose
+maximumRoll : 0
+maximum : 2880
+minimum : 1420
+=================
+time : 53
+lastnum : 3580
+win!
+maximumRoll : 52
+maximum : 3580
+minimum : 2570
+=================
+time : 100
+lastnum : 3070
+lose
+maximumRoll : 98
+maximum : 3190
+minimum : 1880
+=================
+time : 100
+lastnum : 1860
+lose
+maximumRoll : 0
+maximum : 3010
+minimum : 1680
+=================
+time : 100
+lastnum : 2100
+lose
+maximumRoll : 13
+maximum : 3280
+minimum : 2100
+=================
+time : 100
+lastnum : 2410
+lose
+maximumRoll : 57
+maximum : 3300
+minimum : 2380
+=================
+time : 100
+lastnum : 1660
+lose
+maximumRoll : 8
+maximum : 3040
+minimum : 1650
+=================
+time : 100
+lastnum : 2410
+lose
+maximumRoll : 41
+maximum : 3400
+minimum : 2170
+=================
+time : 100
+lastnum : 260
+lose
+maximumRoll : 1
+maximum : 2900
+minimum : 260
+=================
+time : 100
+lastnum : 2150
+lose
+maximumRoll : 27
+maximum : 3150
+minimum : 1990
+=================
+time : 100
+lastnum : 1140
+lose
+maximumRoll : 7
+maximum : 3290
+minimum : 900
+=================
+time : 93
+lastnum : 3650
+win!
+maximumRoll : 92
+maximum : 3650
+minimum : 2070
+=================
+time : 44
+lastnum : 3620
+win!
+maximumRoll : 43
+maximum : 3620
+minimum : 2670
+=================
+time : 63
+lastnum : 3530
+win!
+maximumRoll : 62
+maximum : 3530
+minimum : 2680
+=================
+time : 100
+lastnum : 3360
+lose
+maximumRoll : 78
+maximum : 3440
+minimum : 2580
+=================
+time : 100
+lastnum : 1810
+lose
+maximumRoll : 45
+maximum : 3490
+minimum : 1800
+=================
+time : 100
+lastnum : 2450
+lose
+maximumRoll : 69
+maximum : 3300
+minimum : 2450
+=================
+time : 99
+lastnum : 3550
+win!
+maximumRoll : 98
+maximum : 3550
+minimum : 2060
+=================
+time : 100
+lastnum : 2450
+lose
+maximumRoll : 10
+maximum : 3060
+minimum : 1610
+=================
+time : 38
+lastnum : 3520
+win!
+maximumRoll : 37
+maximum : 3520
+minimum : 2560
+=================
+time : 100
+lastnum : 2170
+lose
+maximumRoll : 24
+maximum : 3490
+minimum : 2170
+=================
+time : 43
+lastnum : 3510
+win!
+maximumRoll : 42
+maximum : 3510
+minimum : 2740
+=================
+time : 100
+lastnum : 2290
+lose
+maximumRoll : 6
+maximum : 3120
+minimum : 2270
+=================
+time : 34
+lastnum : 3630
+win!
+maximumRoll : 33
+maximum : 3630
+minimum : 2790
+=================
+time : 100
+lastnum : 2110
+lose
+maximumRoll : 1
+maximum : 3000
+minimum : 2110
+=================
+time : 67
+lastnum : 3580
+win!
+maximumRoll : 66
+maximum : 3580
+minimum : 2600
+=================
+time : 100
+lastnum : 2550
+lose
+maximumRoll : 67
+maximum : 2980
+minimum : 1980
+=================
+time : 14
+lastnum : 3550
+win!
+maximumRoll : 13
+maximum : 3550
+minimum : 2780
+=================
+time : 83
+lastnum : 3650
+win!
+maximumRoll : 82
+maximum : 3650
+minimum : 2290
+=================
+time : 100
+lastnum : 1090
+lose
+maximumRoll : 1
+maximum : 3000
+minimum : 1090
+=================
+time : 100
+lastnum : 3080
+lose
+maximumRoll : 87
+maximum : 3160
+minimum : 2350
+=================
+time : 100
+lastnum : 2750
+lose
+maximumRoll : 4
+maximum : 3140
+minimum : 2320
+=================
+time : 100
+lastnum : 2180
+lose
+maximumRoll : 32
+maximum : 3130
+minimum : 1990
+=================
+time : 80
+lastnum : 3510
+win!
+maximumRoll : 79
+maximum : 3510
+minimum : 2270
+=================
+time : 53
+lastnum : 3590
+win!
+maximumRoll : 52
+maximum : 3590
+minimum : 2860
+=================
+time : 28
+lastnum : 3540
+win!
+maximumRoll : 27
+maximum : 3540
+minimum : 2580
+=================
+time : 21
+lastnum : 3570
+win!
+maximumRoll : 20
+maximum : 3570
+minimum : 2840
+=================
+time : 100
+lastnum : 2180
+lose
+maximumRoll : 16
+maximum : 2960
+minimum : 1450
+=================
