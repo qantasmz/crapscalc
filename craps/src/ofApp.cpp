@@ -15,7 +15,44 @@ void ofApp::update(){
     int dice1 = ofRandom(6)+1;
     
     int roll = dice0+dice1;
+    int earn =0;
+    if(roll== 2){
+        earn = 0;
+        if(passline){
+            passline = false;
+        }
+    }
+    if(roll== 3){
+        earn = 0;
+        if(passline){
+            passline = false;
+        }
+    }
+    
+    if(roll== 7){
+        earn = 50*2;
+        if(passline){
+            passline = false;
+        }
+    }
+    
+    if(roll== 11){
+        earn = 50*2;
+        if(passline){
+            passline = false;
+        }
+    }
+    if(roll== 12){
+        earn = 0;
+        if(passline){
+            passline = false;
+        }
+    }
+    money += earn;
     ofLog(OF_LOG_NOTICE,ofToString(roll));
+    ofLog(OF_LOG_NOTICE,ofToString(money));
+    
+
 }
 
 //--------------------------------------------------------------

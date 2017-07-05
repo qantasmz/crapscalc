@@ -23,9 +23,13 @@ class ofApp : public ofBaseApp{
     
     
     int money = 3000;
+    
+    bool comeout = true;
+    
     bool passline = false;
     bool passlineOdds = false;
     
     bool come = false;
     bool comeOdds = false;
+    in num = 0;
 };
