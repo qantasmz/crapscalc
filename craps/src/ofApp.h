@@ -23,6 +23,9 @@ class ofApp : public ofBaseApp{
     
     
     int money = 3000;
+    int max = 0;
+    int maxTime = 0;
+    int cnt = 0;
     
     bool comeout = true;
     
@@ -34,4 +37,10 @@ class ofApp : public ofBaseApp{
     bool comeBet = false;
     bool comeOdds = false;
     int num = 0;
+    int comeNum = 0;
+    
+    bool stop = false;
+    bool end = false;
+    
+    int bet = 10;
 };
