@@ -21,9 +21,14 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-    int total = 0;
+    int sessions = 100;
     
-    int money = 1500;
+    int total = 0;
+    int limit = 150;
+    
+    int winnum = 2200;
+    int defmoney = 2000;
+    int money = 0;
     int max = 0;
     int min = 10000;
     int maxTime = 0;
@@ -44,7 +49,7 @@ class ofApp : public ofBaseApp{
     bool end = false;
     
     int bet = 10;
-    int odds = 10;
+    int odds = 5;
     int winCnt = 0;
     int loseCnt = 0;
     
