@@ -2770,3 +2770,10 @@ maximumRoll : 16
 maximum : 2960
 minimum : 1450
 =================
+time : 34
+lastnum : 3510
+win!
+maximumRoll : 33
+maximum : 3510
+minimum : 2770
+=================
